@@ -2,3 +2,4 @@ Titanic
 Up
 Harry Potter
 Frozen
+Avatar
